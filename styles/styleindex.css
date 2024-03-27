@@ -7,26 +7,6 @@ background-color: brown;
     margin-right: 500px;
 }
 
-#BotonAjedrez {
-
-    position: relative;
-    top: -30px;
-    left: 1230px;
-}
-
-#BotonHandball {
-
-    position: relative;
-    top: -1px;
-    left: 800px;
-}
-
-#Boton23Par {
-
-    position: relative;
-    top: -30px;
-    left: 120px;
-}
 
 .fondohead {
     background-color: rgb(194, 83, 83);
