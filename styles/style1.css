@@ -1,6 +1,5 @@
 .cbody {
-    
-    background-color: #52040C;
+     background-color: #52040C;
 
 }
 .cfooter {
@@ -22,4 +21,5 @@
 
     color: aliceblue;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 }
