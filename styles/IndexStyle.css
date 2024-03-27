@@ -20,8 +20,7 @@
 }
 
 .boton{
-    text-align: center;
-    background-color: rgba(0, 0, 0, 0.274);
+    background-color: rgba(0, 0, 0, 0.203);
     color: rgb(230, 230, 230);
     border: 1.5px;
     border-radius: 20px;
@@ -29,7 +28,7 @@
     font-size: 25px;
     padding: 10px 15px;
     margin: 20px 0;
-  }
+}
 
 .pcentrado {
     margin-right: 500px;
