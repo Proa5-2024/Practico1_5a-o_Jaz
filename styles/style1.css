@@ -44,6 +44,28 @@
 .positionlincks {
 
     position:relative;
-    left: 86%;
+    top: -200px;
+    left: 80%;
 
+}
+#positiontitulo {
+    position: relative;
+    top: 60px;
+}
+#positiontable {
+
+    position: relative;
+    top: 60px;
+}
+
+.table {
+    border: 3px;
+    border-color: black;
+    border-radius: 5%;
+    background-color: black;
+}
+.tr {
+    border: 3px;
+    border-color: rgb(12, 12, 12);
+    background-color: grey;
 }
