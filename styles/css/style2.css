@@ -1,5 +1,46 @@
+
+
 .cbody {
     
    background-color: #52040C;
 
+}
+.cfooter {
+
+   background-color: #52040C;
+   background-color: rgba(0, 0, 0, 0.1);
+   margin-bottom: 0px;
+   position: relative;
+   top: 380px;
+}
+
+.pcentrado {
+   margin-right: 500px;
+}
+
+
+.chead {
+   background-color: #52040C;
+
+}
+
+.cletrasystyle {
+
+   color: aliceblue;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#poslogco {
+
+   margin-left: 1000px;
+}
+
+#poslogfa {
+   margin-left: 20px;
+
+}
+
+#poslogins {
+   margin-left: 20px;
 }
