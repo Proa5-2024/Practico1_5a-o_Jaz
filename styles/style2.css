@@ -4,21 +4,21 @@
 }
 .cfooter {
 
-    background-color: #52040C;
-    background-color: rgba(0, 0, 0, 0.1);
+   background-color: #52040C;
+   background-color: rgba(0, 0, 0, 0.1);
 }
 
 .pcentrado {
-    margin-right: 500px;
+   margin-right: 500px;
 }
 
 .chead {
-    background-color: #52040C;
+   background-color: #52040C;
 
 }
 
 .cletrasystyle {
 
-    color: aliceblue;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+   color: aliceblue;
+   font-family: Georgia, 'Times New Roman', Times, serif;
 }
