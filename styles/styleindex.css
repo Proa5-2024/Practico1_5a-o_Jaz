@@ -12,6 +12,18 @@
     top: 200px;
 }
 
+.boton{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.274);
+    color: rgb(230, 230, 230);
+    border: 1.5px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 25px;
+    padding: 10px 15px;
+    margin: 20px 0;
+  }
+
 .pcentrado {
     margin-right: 500px;
 }
