@@ -2,6 +2,8 @@
 .cbody {
     
    background-color: #52040C;
+   
+   color: rgb(230, 230, 230);
 
 }
 .cfooter {
@@ -49,3 +51,22 @@
 #poslogins {
    margin-left: 20px;
 }
+
+.positionlincks {
+
+   position:relative;
+   left: 86%;
+
+}
+
+.boton{
+   text-align: center;
+   background-color: rgba(0, 0, 0, 0.274);
+   color: rgb(230, 230, 230);
+   border: 1.5px;
+   border-radius: 20px;
+   cursor: pointer;
+   font-size: 25px;
+   padding: 10px 15px;
+   margin: 20px 0;
+ }
