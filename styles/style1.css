@@ -2,12 +2,29 @@
      background-color: #52040C;
 
 }
+
 .cfooter {
 
     background-color: #52040C;
     background-color: rgba(0, 0, 0, 0.1);
+    margin-bottom: 0px;
+    position: relative;
+    top: 350px;
 }
 
+#poslogco {
+
+    margin-left: 1000px;
+}
+
+#poslogfa {
+    margin-left: 20px;
+
+}
+
+#poslogins {
+    margin-left: 20px;
+}
 .pcentrado {
     margin-right: 500px;
 }
