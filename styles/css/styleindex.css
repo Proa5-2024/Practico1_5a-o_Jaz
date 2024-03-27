@@ -1,5 +1,6 @@
 .cbody {
-     background-color: #52040C;
+    
+    background-color: #52040C;
 
 }
 .cfooter {
@@ -12,6 +13,7 @@
     margin-right: 500px;
 }
 
+
 .chead {
     background-color: #52040C;
 
@@ -21,12 +23,4 @@
 
     color: aliceblue;
     font-family: Georgia, 'Times New Roman', Times, serif;
-
-}
-
-.positionlincks {
-
-    position:relative;
-    left: 86%;
-
 }

@@ -21,12 +21,5 @@
 
     color: aliceblue;
     font-family: Georgia, 'Times New Roman', Times, serif;
-
-}
-
-.positionlincks {
-
-    position:relative;
-    left: 86%;
-
+    text-align: center;
 }
