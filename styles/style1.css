@@ -12,6 +12,16 @@
     top: 350px;
 }
 
+.boton{
+    color: rgb(230, 230, 230);
+    border: 1.5px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 25px;
+    padding: 10px 15px;
+    margin: 20px 0;
+}
+
 #poslogco {
 
     margin-left: 1000px;
