@@ -1,6 +1,12 @@
-.body {
-background-color: brown;
+.cbody {
+    
+    background-color: #52040C;
 
+}
+.cfooter {
+
+    background-color: #52040C;
+    background-color: rgba(0, 0, 0, 0.1);
 }
 
 .pcentrado {
@@ -28,7 +34,13 @@ background-color: brown;
     left: 120px;
 }
 
-.fondohead {
-    background-color: rgb(194, 83, 83);
+.chead {
+    background-color: #52040C;
 
+}
+
+.cletrasystyle {
+
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
