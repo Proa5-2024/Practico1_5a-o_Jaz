@@ -2,20 +2,25 @@
     
    background-color: #52040C;
    color: rgb(230, 230, 230);
+   margin: 0%;
+   width: 100%;
 
 }
-
 .positionlincks {
-   
-   margin-left: 80%;
+
+   position:absolute;
+   top: 9%;
+   left: 69%;
+
 }
 .cfooter {
 
    background-color: #52040C;
    background-color: rgba(0, 0, 0, 0.1);
    margin-bottom: 0px;
-   position: relative;
+   position: absolute;
    margin-top: 22%;
+   top: 30%;
 }
 
 .boton{
@@ -49,14 +54,25 @@
 
 #poslogfa {
    margin-left: 2%;
+   width: 6%;
+   height: 6%;
+   margin-top: 1%;
+   margin-bottom: 1%;
 
 }
 
 #poslogins {
    margin-left: 2%;
+   width: 6%;
+   height: 6%;
+   margin-top: 1%;
+   margin-bottom: 1%;
 }
 
 #poslogco {
-
    margin-left: 76%;
+   width: 6%;
+   height: 6%;
+   margin-top: 1%;
+   margin-bottom: 1%;
 }
