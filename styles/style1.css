@@ -26,18 +26,29 @@
     margin: 20px 0;
 }
 
-#poslogco {
-
-    margin-left: 1000px;
-}
-
 #poslogfa {
-    margin-left: 20px;
+    margin-left: 2%;
+    width: 6%;
+    height: 6%;
+    margin-top: 1%;
+    margin-bottom: 1%;
 
 }
 
 #poslogins {
-    margin-left: 20px;
+    margin-left: 2%;
+    width: 6%;
+    height: 6%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+#poslogco {
+    margin-left: 76%;
+    width: 6%;
+    height: 6%;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
 .pcentrado {
     margin-right: 500px;
