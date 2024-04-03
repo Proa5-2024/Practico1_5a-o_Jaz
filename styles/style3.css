@@ -12,7 +12,7 @@
    background-color: rgba(0, 0, 0, 0.1);
    margin-bottom: 0px;
    position: relative;
-   top: 380px;
+   top: 290px;
 }
 .cbody {
     
@@ -54,8 +54,7 @@
 
 .positionlincks {
 
-   position:relative;
-   left: 86%;
+   margin-left: 80%;
 
 }
 
