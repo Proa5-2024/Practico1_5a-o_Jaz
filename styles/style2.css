@@ -1,7 +1,13 @@
 .cbody {
     
    background-color: #52040C;
+   color: rgb(230, 230, 230);
 
+}
+
+.positionlincks {
+   
+   margin-left: 80%;
 }
 .cfooter {
 
@@ -9,7 +15,7 @@
    background-color: rgba(0, 0, 0, 0.1);
    margin-bottom: 0px;
    position: relative;
-   top: 380px;
+   margin-top: 22%;
 }
 
 .boton{
@@ -20,11 +26,11 @@
    cursor: pointer;
    font-size: 25px;
    padding: 10px 15px;
-   margin: 20px 0;
+   margin-right: 20px;
 }
 
 .pcentrado {
-   margin-right: 500px;
+   margin-right: 50%;
 }
 
 
@@ -40,22 +46,17 @@
 }
 
 
-#poslogco {
-
-   margin-left: 1000px;
-}
 
 #poslogfa {
-   margin-left: 20px;
+   margin-left: 2%;
 
 }
 
 #poslogins {
-   margin-left: 20px;
+   margin-left: 2%;
 }
-.positionlincks {
 
-   position:relative;
-   left: 86%;
+#poslogco {
 
+   margin-left: 76%;
 }
