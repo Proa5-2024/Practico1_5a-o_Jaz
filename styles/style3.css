@@ -10,12 +10,13 @@
    margin-left: 70%;
 }
 .cfooter {
-
+   
    background-color: #52040C;
    background-color: rgba(0, 0, 0, 0.1);
-   margin-bottom: 0px;
+   margin-bottom: 2%;
    position: relative;
    margin-top: 30%;
+   margin-bottom: 0%;
 }
 
 .boton{
@@ -49,14 +50,25 @@
 
 #poslogfa {
    margin-left: 2%;
+   width: 6%;
+   height: 6%;
+   margin-top: 1%;
+   margin-bottom: 1%;
 
 }
 
 #poslogins {
    margin-left: 2%;
+   width: 6%;
+   height: 6%;
+   margin-top: 1%;
+   margin-bottom: 1%;
 }
 
 #poslogco {
-
    margin-left: 76%;
+   width: 6%;
+   height: 6%;
+   margin-top: 1%;
+   margin-bottom: 1%;
 }
