@@ -1,10 +1,13 @@
-
 .cbody {
     
    background-color: #52040C;
-   
    color: rgb(230, 230, 230);
 
+}
+
+.positionlincks {
+   
+   margin-left: 80%;
 }
 .cfooter {
 
@@ -12,17 +15,22 @@
    background-color: rgba(0, 0, 0, 0.1);
    margin-bottom: 0px;
    position: relative;
-   top: 290px;
-}
-.cbody {
-    
-   background-color: #52040C;
-
+   margin-top: 22%;
 }
 
+.boton{
+   background-color: rgba(0, 0, 0, 0.203);
+   color: rgb(230, 230, 230);
+   border: 1.5px;
+   border-radius: 20px;
+   cursor: pointer;
+   font-size: 25px;
+   padding: 10px 15px;
+   margin-right: 20px;
+}
 
 .pcentrado {
-   margin-right: 500px;
+   margin-right: 50%;
 }
 
 
@@ -38,34 +46,17 @@
 }
 
 
-#poslogco {
-
-   margin-left: 1000px;
-}
 
 #poslogfa {
-   margin-left: 20px;
+   margin-left: 2%;
 
 }
 
 #poslogins {
-   margin-left: 20px;
+   margin-left: 2%;
 }
 
-.positionlincks {
+#poslogco {
 
-   margin-left: 80%;
-
+   margin-left: 76%;
 }
-
-.boton{
-   text-align: center;
-   background-color: rgba(0, 0, 0, 0.274);
-   color: rgb(230, 230, 230);
-   border: 1.5px;
-   border-radius: 20px;
-   cursor: pointer;
-   font-size: 25px;
-   padding: 10px 15px;
-   margin: 20px 0;
- }
