@@ -1,5 +1,7 @@
 .cbody {
      background-color:#52040C;
+     margin: 0%;
+     width: 100%;
 
 }
 
@@ -8,8 +10,9 @@
     background-color:#52040C;
     background-color: rgba(0, 0, 0, 0.1);
     margin-bottom: 0px;
-    position: relative;
-    top: 350px;
+    position: absolute;
+    top:85%;
+    margin-right:0% ;
 }
 
 .boton{
@@ -54,9 +57,9 @@
 
 .positionlincks {
 
-    position:relative;
-    top: -200px;
-    left: 80%;
+    position:absolute;
+    top: 9%;
+    left: 69%;
 
 }
 #positiontitulo {
